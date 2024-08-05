@@ -31431,6 +31431,66 @@
 	<programme channel="四海钓鱼" start="20240806233000 +0800" stop="20240806234500 +0800">
 		<title lang="zh">钓赛最前线</title>
 	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240806000600 +0800" stop="20240806030400 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806030400 +0800" stop="20240806051800 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806051800 +0800" stop="20240806090900 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806090900 +0800" stop="20240806111700 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806111700 +0800" stop="20240806141000 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806141000 +0800" stop="20240806175800 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806175800 +0800" stop="20240806213700 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806213700 +0800" stop="20240806220700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240806220700 +0800" stop="20240806235900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240806014300 +0800" stop="20240806020500 +0800">
+		<title lang="zh">程序委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806020500 +0800" stop="20240806051000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806051000 +0800" stop="20240806080900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806080900 +0800" stop="20240806083100 +0800">
+		<title lang="zh">程序委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806083100 +0800" stop="20240806112100 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806112100 +0800" stop="20240806155700 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806155700 +0800" stop="20240806195100 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806195100 +0800" stop="20240806212200 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240806212200 +0800" stop="20240806235900 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
 	<channel id="国兴卫视">
 		<display-name lang="zh">国兴卫视</display-name>
 	</channel>
@@ -58632,6 +58692,9 @@
 	<programme channel="纯享4K" start="20240806042000 +0800" stop="20240806050200 +0800">
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240806051200 +0800" stop="20240806060100 +0800">
+		<title lang="zh">大地之上4K 第1集 崛起之地</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70389,6 +70452,9 @@
 	<programme channel="黑莓电影" start="20240806033700 +0800" stop="20240806050700 +0800">
 		<title lang="zh">I.Q.情缘</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240806050700 +0800" stop="20240806064800 +0800">
+		<title lang="zh">警察故事</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -70884,6 +70950,9 @@
 	<programme channel="newtv超级综艺" start="20240806034500 +0800" stop="20240806051500 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240806051500 +0800" stop="20240806053500 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70932,6 +71001,9 @@
 	<programme channel="newtv超级电视剧" start="20240806042900 +0800" stop="20240806051400 +0800">
 		<title lang="zh">35_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240806051400 +0800" stop="20240806055900 +0800">
+		<title lang="zh">36_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70955,6 +71027,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240806042000 +0800" stop="20240806050500 +0800">
 		<title lang="zh">05_射天狼</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240806050500 +0800" stop="20240806055000 +0800">
+		<title lang="zh">06_射天狼</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -71052,6 +71127,9 @@
 	<programme channel="newtv家庭剧场" start="20240806041800 +0800" stop="20240806050300 +0800">
 		<title lang="zh">20_我和我的儿女们</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240806050300 +0800" stop="20240806054800 +0800">
+		<title lang="zh">21_我和我的儿女们</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -71069,6 +71147,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240806042700 +0800" stop="20240806051200 +0800">
 		<title lang="zh">04_林深见鹿</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240806051200 +0800" stop="20240806055800 +0800">
+		<title lang="zh">05_林深见鹿</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -71151,6 +71232,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240806043800 +0800" stop="20240806051300 +0800">
 		<title lang="zh">36_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240806051300 +0800" stop="20240806054700 +0800">
+		<title lang="zh">37_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71159,6 +71243,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240806042000 +0800" stop="20240806051200 +0800">
 		<title lang="zh">制胜空天保障人</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240806051200 +0800" stop="20240806060500 +0800">
+		<title lang="zh">管线尖兵挑战赛</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -71183,6 +71270,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240806044900 +0800" stop="20240806051100 +0800">
 		<title lang="zh">健身舞《好儿好女好家园》（20230522）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240806051400 +0800" stop="20240806051800 +0800">
+		<title lang="zh">《广场舞》 花样年华表演</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -71216,6 +71306,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240806033400 +0800" stop="20240806050600 +0800">
 		<title lang="zh">金斯湾</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240806050600 +0800" stop="20240806062700 +0800">
+		<title lang="zh">恐怖电影院</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -71294,6 +71387,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240806044500 +0800" stop="20240806051600 +0800">
 		<title lang="zh">男子太极拳、太极剑全能</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240806051600 +0800" stop="20240806053700 +0800">
+		<title lang="zh">女子太极拳、太极剑全能</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
